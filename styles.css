@@ -207,7 +207,7 @@ footer {
   cursor: pointer;  
   transition: 0.1s ease-in-out;
 
-  /* problem må sjekkes, logo overlapper ikke footer */
+  /* logo overlapper ikke footer (må debugges) */
   z-index: 1000;
 
 }
